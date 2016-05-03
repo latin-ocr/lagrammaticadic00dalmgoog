@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lagrammaticadic00dalmgoog_0008.png"; bbox 0 0 4092 6050; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 719 4966 1454 5049">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 719 4966 1454 5049">
+     <span class='ocr_line' id='line_1_1' title="bbox 719 4966 1454 5049; baseline 0.046 -44"><span class='ocrx_word' id='word_1_1' title='bbox 719 4966 745 5010; x_wconf 87' lang='lat' dir='ltr'>N.</span> <span class='ocrx_word' id='word_1_2' title='bbox 764 4971 836 5021; x_wconf 82' lang='lat' dir='ltr'>1o.298</span> <span class='ocrx_word' id='word_1_3' title='bbox 851 4992 877 5003; x_wconf 91' lang='lat'>-</span> <span class='ocrx_word' id='word_1_4' title='bbox 891 4973 948 5015; x_wconf 68' lang='lat' dir='ltr'>Sub.</span> <span class='ocrx_word' id='word_1_5' title='bbox 966 4975 991 5015; x_wconf 89' lang='lat' dir='ltr'>T.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1007 4977 1034 5017; x_wconf 89' lang='grc' dir='ltr'>Τ.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1050 4978 1109 5021; x_wconf 77' lang='lat' dir='ltr'>Don.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1126 4982 1197 5025; x_wconf 82' lang='lat' dir='ltr'><strong>Momo</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1212 4999 1223 5027; x_wconf 87' lang='lat' dir='ltr'>e</span> <span class='ocrx_word' id='word_1_10' title='bbox 1238 4988 1273 5041; x_wconf 82' lang='lat' dir='ltr'>C.,</span> <span class='ocrx_word' id='word_1_11' title='bbox 1287 4992 1320 5031; x_wconf 77' lang='lat' dir='ltr'>via</span> <span class='ocrx_word' id='word_1_12' title='bbox 1334 4993 1420 5047; x_wconf 78' lang='lat' dir='ltr'>Ormea,</span> <span class='ocrx_word' id='word_1_13' title='bbox 1435 5010 1454 5049; x_wconf 75' lang='grc' dir='ltr'>ς.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2050 6050">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2050 6050">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 2050 6050; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 2050 6050; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
